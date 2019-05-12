@@ -5,7 +5,7 @@ The unique sequence of amino acids that make up a protein impart to it distinct 
 
 Usage:
 1.	Download datafiles:
-	1. PDB. Download the PDB file from ftp://ftp.wwpdb.org/pub/pdb/derived_data/pdb_seqres.txt, and rename it to pdb.fasta.
+	1. PDB. Download the PDB file from http://ftp.wwpdb.org/pub/pdb/derived_data/pdb_seqres.txt, and rename it to pdb.fasta.
 	2. UniProt. Download the SwissProt file from https://www.uniprot.org/downloads, and rename it to uniprot.fasta.
 	3. DeepLoc. Download the DeepLoc file from http://www.cbs.dtu.dk/services/DeepLoc-1.0/deeploc_data.fasta, and rename it to deeploc.fasta
 	4. Place these three files in a folder data/
