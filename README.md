@@ -1,4 +1,5 @@
-#Amino acid vector embeddings, similarity scores, and protein subcellular localization
+#aa-vec-embeddings
+Amino acid vector embeddings, similarity scores, and protein subcellular localization
 
 The unique sequence of amino acids that make up a protein impart to it distinct physical and chemical properties. Inspired by ideas in NLP like word2vec and sequence-based models, we create vector embeddings of amino acids which encode contextual information and meaningful biochemical properties. We use these vector embeddings to compute substitution matrices for the problem of protein sequence alignment. We also use these embeddings together with sequence based models for the task of predicting protein subcellular localization.
 
